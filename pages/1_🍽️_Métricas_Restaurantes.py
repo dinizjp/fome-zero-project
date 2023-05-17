@@ -3,7 +3,7 @@ import streamlit as st
 import plotly.express as px
 
 
-st.set_page_config( page_title = 'Métricas Gerais', layout = 'wide',theme="light")
+st.set_page_config( page_title = 'Métricas Gerais', layout = 'wide')
 
 
                         #Funções 
