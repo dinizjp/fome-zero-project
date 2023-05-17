@@ -4,7 +4,7 @@ import streamlit as st
 df = pd.read_csv('zomato_tratado.csv')
 
 st.set_page_config(
-        page_title= 'Main Page'
+        page_title= 'Main Page',
         layout = 'wide'
 )
 
