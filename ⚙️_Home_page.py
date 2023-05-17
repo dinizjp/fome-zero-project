@@ -76,7 +76,8 @@ st.markdown(
             
         - #### Métricas Restaurantes:
             - **Top 10 restaurantes mais caros**
-            - **Top 10 restaurantes com mais avaliações**
+            - **Top 10 restaurantes com maior número de avaliações**
+            - **Os restaurantes do tipo de culinária japonesa dos Estados Unidos da América possuem um valor médio de prato para duas pessoas maior que as churrascarias americanas (BBQ)??**
             - **Top 10 cidades com a maior quantidade de restaurantes avaliados acima de 4.0**
             
             
