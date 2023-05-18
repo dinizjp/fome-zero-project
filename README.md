@@ -81,31 +81,31 @@ O objetivo deste projeto é que fosse gerado um dashboard que permitisse que ele
 O Painel estratégico foi desenvolvido utilizando as métricas que refletem as 03 principais visões do modelo de negócio da empresa:
 
    - #### Métricas Gerais :
-            - **Número de Restaurantes cadastrados**  
-            - **Número de Paises cadastrados** 
-            - **Número de Cidades cadastrados**
-            - **Total de Avaliações Feitas na plataforma**
-            - **Número de tipos de Culinária cadastrados**
+      - **Número de Restaurantes cadastrados**  
+      - **Número de Paises cadastrados** 
+      - **Número de Cidades cadastrados**
+      - **Total de Avaliações Feitas na plataforma**
+      - **Número de tipos de Culinária cadastrados**
             
    - #### Métricas Restaurantes:
-            - **Top 10 restaurantes mais caros**
-            - **Top 10 restaurantes com maior número de avaliações**
-            - **3 Perguntas de hipótese com resposta**
+      - **Top 10 restaurantes mais caros**
+      - **Top 10 restaurantes com maior número de avaliações**
+      - **3 Perguntas de hipótese com resposta**
            
    - #### Métricas Cidades :
-            - **Top 10 cidades com a maior quantidade de restaurantes avaliados acima de 4.0**
-            - **Top 10 cidades com a maior quantidade de restaurantes avaliados abaixo de 2.5**
-            - **Top 10 cidades com a maior preço médio do prato para dois**
-            - **Quantidade de Cidades Registrados por País**
-            - **Média do número de avaliações por País**
+      - **Top 10 cidades com a maior quantidade de restaurantes avaliados acima de 4.0**
+      - **Top 10 cidades com a maior quantidade de restaurantes avaliados abaixo de 2.5**
+      - **Top 10 cidades com a maior preço médio do prato para dois**
+      - **Quantidade de Cidades Registrados por País**
+      - **Média do número de avaliações por País**
         
    - #### Métricas Países :
-            - **Média de preço do prato para duas pessoas por país em dólar**
-            - **Quantidade de Restaurantes Registrados por País**
-            - **Quantidade de Cidades Registrados por País**
-            - **Média do número de avaliações por País**
-            - **Quantidade de Culinárias distintas por País**
-            - **Quantidade de Restaurantes considerado tipo Gourmet** 
+      - **Média de preço do prato para duas pessoas por país em dólar**
+      - **Quantidade de Restaurantes Registrados por País**
+      - **Quantidade de Cidades Registrados por País**
+      - **Média do número de avaliações por País**
+      - **Quantidade de Culinárias distintas por País**
+      - **Quantidade de Restaurantes considerado tipo Gourmet** 
             
 # 4. O produto final do projeto 
 Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado a internet. 
