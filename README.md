@@ -73,14 +73,46 @@ empresa e que sejam gerados dashboards, a partir dessas análises, para responde
 
 O objetivo deste projeto é que fosse gerado um dashboard que permitisse que ele visualizasse as principais informações das perguntas que ele fez. O CEO precisa dessas informações o mais rápido possível, uma vez que ele também é novo na empresa e irá utilizá-las para entender melhor a empresa Fome Zero para conseguir tomar decisões mais assertivas.
 
-# 2. Premissao assumidas para a análise
+# 2. Premissa assumidas para a análise
 1. A análise foi realizada nas maiores quantidade de restaurantes registrados no País, Cidades e nas médias de cada avaliação
-2. As 03 principais visões são Países, Cidades e Culinária
+2. As 03 principais visões do Dashboard construído são Países, Cidades e Restaurantes 
+
+# 3. Estratégia da solução
+O Painel estratégico foi desenvolvido utilizando as métricas que refletem as 03 principais visões do modelo de negócio da empresa:
+
+        - #### Métricas Gerais :
+            - **Número de Restaurantes cadastrados**  
+            - **Número de Paises cadastrados** 
+            - **Número de Cidades cadastrados**
+            - **Total de Avaliações Feitas na plataforma**
+            - **Número de tipos de Culinária cadastrados**
+            
+        - #### Métricas Restaurantes:
+            - **Top 10 restaurantes mais caros**
+            - **Top 10 restaurantes com maior número de avaliações**
+            - **3 Perguntas de hipótese com resposta**
+           
+        - #### Métricas Cidades :
+            - **Top 10 cidades com a maior quantidade de restaurantes avaliados acima de 4.0**
+            - **Top 10 cidades com a maior quantidade de restaurantes avaliados abaixo de 2.5**
+            - **Top 10 cidades com a maior preço médio do prato para dois**
+            - **Quantidade de Cidades Registrados por País**
+            - **Média do número de avaliações por País**
+        
+        - #### Métricas Países :
+            - **Média de preço do prato para duas pessoas por país em dólar**
+            - **Quantidade de Restaurantes Registrados por País**
+            - **Quantidade de Cidades Registrados por País**
+            - **Média do número de avaliações por País**
+            - **Quantidade de Culinárias distintas por País**
+            - **Quantidade de Restaurantes considerado tipo Gourmet** 
+            
+# 4. O produto final do projeto 
+Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado a internet. 
+
+O painel pode ser acessado através do link: https://dinizjp-fome-zero-project.streamlit.app/
 
 
-# Em processo 
+# 5. Conclusão
+O objetivo desse projeto foi reforçar as habilidades de análise explorátoria com as bibliotecas Pandas e Plotly, e também utilizar a ferramenta de desenvolvimento web Streamlit para criar um Dashboard interativo, usando gráficos que exibam as principais métricas da melhor forma possível para o CEO.
 
-
-
-# 3. Conclusão
-O objetivo desse projeto foi reforçar as habilidades de análise explorátoria com pandas e criar um Dashboard interativo com as informações, usando gráficos e tabelas que exibam essas métricas da melhor forma possível para o CEO.
