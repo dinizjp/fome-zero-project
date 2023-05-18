@@ -114,5 +114,5 @@ O painel pode ser acessado através do link: https://dinizjp-fome-zero-project.s
 
 
 # 5. Conclusão
-O objetivo desse projeto foi reforçar as habilidades de análise explorátoria com as bibliotecas Pandas e Plotly, e também utilizar a ferramenta de desenvolvimento web Streamlit para criar um Dashboard interativo, usando gráficos que exibam as principais métricas da melhor forma possível para o CEO.
+O objetivo desse projeto foi reforçar as habilidades de análise exploratória com as bibliotecas Pandas e Plotly, e também utilizar a ferramenta de desenvolvimento web Streamlit para criar um Dashboard interativo, usando gráficos que exibam as principais métricas para o CEO.
 
