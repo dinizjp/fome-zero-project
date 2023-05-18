@@ -77,7 +77,7 @@ st.markdown(
         - #### Métricas Restaurantes:
             - **Top 10 restaurantes mais caros**
             - **Top 10 restaurantes com maior número de avaliações**
-            - **3 Perguntas de de hipótese com resposta**
+            - **3 Perguntas de hipótese com resposta**
            
         - #### Métricas Cidades :
             - **Top 10 cidades com a maior quantidade de restaurantes avaliados acima de 4.0**
