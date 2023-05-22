@@ -89,7 +89,7 @@ with st.container():
     
     fig_10_more_vote = create_bar_chart(top_10_more_vote, 'restaurant_name', 'votes', 'Nome restaurante', 'Quantidade de Avaliações')
     
-    fig_10_more_vote.update_traces(hovertemplate='<b>%{x}</b><br>Preço: $%{y}<br>País: %{customdata}',
+    fig_10_more_vote.update_traces(hovertemplate='<b>%{x}</b><br>Quantidade total: %{y}<br>País: %{customdata}',
                                     customdata=top_10_more_vote['country_code'])
     
     st.plotly_chart(fig_10_more_vote)
